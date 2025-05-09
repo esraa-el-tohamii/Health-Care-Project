@@ -37,8 +37,8 @@ The app provides doctors and users with an intuitive interface to input patient 
 ├── app.py                             # Streamlit web app
 ├── Diabetes Dataset Eda.ipynb         # EDA notebook (Exploratory Data Analysis)
 ├── Diabetes Dataset Prediction-1.ipynb  # ML modeling notebook
-├── diabetes\_dataset.csv               # Original dataset
-├── Diabetes\_model.pkl                 # Trained Random Forest model
+├── diabetes_dataset.csv               # Original dataset
+├── Diabetes_model.pkl                 # Trained Random Forest model
 ├── scaler.pkl                         # Preprocessing scaler
 ├── selector.pkl                       # Feature selector
 ├── requirements.txt                   # Python dependencies
