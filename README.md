@@ -1,7 +1,7 @@
 # 🩺 Glucose Guard – Diabetes Risk Prediction Web App
 
 **Glucose Guard** is a machine learning-based healthcare application designed to predict the risk of type 2 diabetes using patient health metrics.  
-This project was developed using Python, Streamlit, and scikit-learn as part of a graduation project for the DEPI initiative supported by the Egyptian Ministry of Communications and Information Technology.
+This project was developed using Python, Streamlit, and scikit-learn as part of a graduation project for the DEPI 'Digital Egypt Pioneers Initiative' supported by the MCIT 'Ministry of Communications and Information Technology'.
 
 ---
 
